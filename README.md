@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ebensaltana" target="blank"><img src="https://img.shields.io/twitter/follow/ebensaltana?logo=twitter&style=for-the-badge" alt="ebensaltana" /></a> </p>
 
-- 🔭 I’m currently working on [tmp](tmp)
+<!-- - 🔭 I’m currently working on [tmp](tmp)
 
 - 🌱 I’m currently learning **tmp**
 
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [tmp](tmp)
 
-- ⚡ Fun fact **tmp**
+- ⚡ Fun fact **tmp** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
