@@ -45,5 +45,3 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ebensalt&show_icons=true&theme=dark&locale=en" alt="ebensalt" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ebensalt&theme=dark" alt="ebensalt" /></p>
-
-<p><a href="https://www.buymeacoffee.com/tmp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tmp" /></a><a href="https://ko-fi.com/tmp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tmp" /></a></p>
