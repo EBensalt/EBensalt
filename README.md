@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elmehdi Bensaltana</h1>
 <h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
-<img width=100% src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN1c3A2a3o0Z2pxdTNveG5xZm16dGZmenM5MXd2M25pZDVyMDUweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFhZjOtzoutSvckWPM/giphy.gif" >
+<img width=100% src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhbWRucXpmd2E2emJlaXBtODdtdTE0ZjA4aWMyMXM4YWdsbHg4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebensalt&label=Profile%20views&color=0e75b6&style=flat" alt="ebensalt" /> </p>
 
