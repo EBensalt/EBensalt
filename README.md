@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/say10co/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/ebensalt/count.svg" alt="" /></td>
   </tr>
 </table>
 <img src="https://badge.mediaplus.ma/binary/ebensalt" alt="ebensalt's 42 stats" />
